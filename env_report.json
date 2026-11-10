@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-10-14T16:58:44.635553+00:00",
+  "generated_at_utc": "2026-11-10T12:10:29.808426+00:00",
   "status": "ok",
-  "path": "local",
+  "path": "codespaces",
   "python": {
-    "version": "3.11.17",
+    "version": "3.11.18",
     "expected": "3.11.x",
     "ok": true
   },
@@ -47,7 +47,7 @@
   },
   "tools": {
     "pytest": {
-      "version": "9.1.1",
+      "version": "9.2.0",
       "expected": null,
       "version_ok": true
     },
@@ -76,9 +76,9 @@
     "asi_ml_kernel_registered": true
   },
   "system": {
-    "os": "Windows",
-    "architecture": "AMD64",
-    "ram_gb": 63.9,
+    "os": "Linux",
+    "architecture": "x86_64",
+    "ram_gb": 7.8,
     "docker": {
       "installed": false,
       "running": false
